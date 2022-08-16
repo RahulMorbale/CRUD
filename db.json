@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ragini",
+      "productName": "sdgsfhhfg",
+      "description": "dgfsdgfhfh",
+      "quantity": 2354321,
+      "price": "12"
+    },
+    {
+      "id": 2,
+      "name": "Rahul",
+      "productName": "dfasfdf",
+      "description": "fsfafdf",
+      "quantity": 5354332434,
+      "price": "345435345"
+    },
+    {
+      "id": 3,
+      "name": "Machhindra",
+      "productName": "6646",
+      "description": "7gdgdgdg",
+      "quantity": 657567,
+      "price": "767"
+    }
+  ]
+}
